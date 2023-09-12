@@ -1,0 +1,24 @@
+_repo: Vastarannalla_71534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kaste, Anni
+    gutenberg_agent_id: '56273'
+    url: http://www.gutenberg.org/2009/agents/56273
+description: ''
+gutenberg_issued: '2023-08-31'
+identifiers:
+  gutenberg: '71534'
+language: fi
+pgterms:marc905: 20230413120108kaste
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vastarannalla
+url: http://www.gutenberg.org/ebooks/71534
