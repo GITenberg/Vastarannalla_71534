@@ -1,11 +1,16 @@
 _repo: Vastarannalla_71534
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kaste, Anni
     gutenberg_agent_id: '56273'
     url: http://www.gutenberg.org/2009/agents/56273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71534#Vastarannalla
 gutenberg_issued: '2023-08-31'
 identifiers:
   gutenberg: '71534'
